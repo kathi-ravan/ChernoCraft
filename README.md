@@ -1,4 +1,1 @@
-ChernoCraft
-===========
-
-A small Minecraft clone in C++.
+1
